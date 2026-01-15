@@ -1,0 +1,7 @@
+{
+  "name": "MicroMentor AI - Chuyên Gia Vi Xử Lý",
+  "description": "Ứng dụng AI chuyên sâu hỗ trợ học tập và giải quyết các bài tập, câu hỏi trắc nghiệm môn Vi xử lý với khả năng phân tích hình ảnh và lập trình Assembly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
